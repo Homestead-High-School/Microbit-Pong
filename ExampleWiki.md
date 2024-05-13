@@ -19,21 +19,6 @@
 |Day|Summary|
 |-|-|
 |1|Learned GitHub Wiki Formatting[<sup>1</sup>] and Introduced to the Core 1 Course[<sup>2</sup>] and Learning Objectives[<sup>3</sup>]|
-|2|Introduction to Laptop Hardware|
-|3|Helped Bozo with GrammarSolver|
-|4|Laptop Hardware Continued|
-|5|End of Laptop Hardware and Start of Laptop Displays|
-|6|Connecting Mobile Devices, Reflection, and GitHub Troubleshooting|
-|7|Explored Labs and Presenting Options, Setting Up a Computer Lab|
-|8|Introduction to Motherboards, UPS Lab|
-|9|KVM Switches and Lab and Firmware Update and BIOS Lab|
-|10|Power Plan and CPU Installation Labs|
-|11|Created and Finished Presentation, Finished CPU Research and Lab|
-|12|BIOS Settings|
-|13|Configuring a Wireless Profile Lab / Network Adapter Lab|
-|14|Delta P and Configuring a Wireless Network|
-|15|Sharing and Securing Files Lab and Network Printing Lab|
-
 
 <hr>
 <hr>
