@@ -18,7 +18,7 @@
 
 |Day|Summary|
 |-|-|
-|1|Learned GitHub Wiki Formatting[<sup>1</sup>] and Introduced to the Core 1 Course[<sup>2</sup>] and Learning Objectives[<sup>3</sup>]|
+|1|Learned GitHub Wiki Formatting[<sup>1</sup>] and began to learn how to program a micro bit [<sup>2</sup>]. Experimented with different features from radio to sound to the accelerometer, and began to explore potential final project goals (array for pong as an example of an idea)[<sup>3</sup>]|
 
 <hr>
 <hr>
