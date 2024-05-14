@@ -12,7 +12,7 @@
 
 |Week|Demonstrated Learning|Code Samples|
 |-|-|-|
-|1|[Week 1 Notes]: https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week1Notes.md|
+|1|[Week 1 Notes](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week1Notes.md)|
 |2|[Week 2 Notes]|[PC Lab] // [UPS Lab] // [Firmware Lab] // [KVM Switch Lab] // [Power Plan Lab] // [CPU Installation Lab]|
 |3|[Week 3 Notes]|[Wireless Network Profile Lab] // [Sharing and Securing Files Lab] // [Network Printing Lab]|
 
