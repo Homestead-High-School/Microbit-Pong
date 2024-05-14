@@ -20,6 +20,7 @@
 |-|-|
 |1|Learned GitHub Wiki Formatting[<sup>1</sup>] and began to learn how to program a micro bit [<sup>2</sup>]. Experimented with different features from radio to sound to the accelerometer, and began to explore potential final project goals (array for pong as an example of an idea)|
 
+[Sources](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)
 <hr>
 <hr>
 <hr>
