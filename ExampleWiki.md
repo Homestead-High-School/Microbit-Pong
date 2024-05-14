@@ -18,12 +18,11 @@
 
 |Day|Summary|
 |-|-|
-|1|Learned GitHub Wiki Formatting[<sup>1</sup>] and began to learn how to program a micro bit [<sup>2</sup>]. Experimented with different features from radio to sound to the accelerometer, and began to explore potential final project goals (array for pong as an example of an idea)[<sup>3</sup>]|
+|1|Learned GitHub Wiki Formatting[<sup>1</sup>] and began to learn how to program a micro bit [<sup>2</sup>]. Experimented with different features from radio to sound to the accelerometer, and began to explore potential final project goals (array for pong as an example of an idea)|
 
 <hr>
 <hr>
 <hr>
 
 [<sup>1</sup>]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs
-[<sup>3</sup>]: https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0)
-[<sup>2</sup>]: https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC
+[<sup>2</sup>]: https://python.microbit.org/v/3
