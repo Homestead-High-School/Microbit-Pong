@@ -12,9 +12,9 @@
 
 |Week|Demonstrated Learning|Code Samples|
 |-|-|-|
-|1|[Week 1 Notes](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week1Notes.md)|
+|1|[Week 1 Notes](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week1Notes.md)||
 |2|[Week 2 Notes](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week2Notes.md)||
-|3|[Week 3 Notes]||
+|3|[Week 3 Notes](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)||
 
 |Day|Summary|
 |-|-|
