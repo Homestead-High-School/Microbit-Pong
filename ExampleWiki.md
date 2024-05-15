@@ -19,6 +19,7 @@
 |Day|Summary|
 |-|-|
 |1|Learned GitHub Wiki Formatting[<sup>1</sup>] and began to learn how to program a micro bit [<sup>2</sup>]. Experimented with different features from radio to sound to the accelerometer, and began to explore potential final project goals (array for pong as an example of an idea)|
+|2|Decided on implementing a pong style game using a 2D array of 25 microbits to simulate a pong game. Began to implement the main controller, the two game controllers, and the display microbits. We relearned some python functionalities to begin programming these functions.| 
 
 [Sources](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)
 <hr>
