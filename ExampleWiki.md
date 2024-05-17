@@ -21,6 +21,7 @@
 |1|Learned GitHub Wiki Formatting[<sup>1</sup>] and began to learn how to program a micro bit [<sup>2</sup>]. Experimented with different features from radio to sound to the accelerometer, and began to explore potential final project goals (array for pong as an example of an idea)|
 |2|Decided on implementing a pong style game using a 2D array of 25 microbits to simulate a pong game. Began to implement the main controller, the two game controllers, and the display microbits. We relearned some python functionalities to begin programming these functions.| 
 |3|Implemented/programmed seven more displays to see how the ball would move across multiple displays. Began considering how to implemented the moving backboards and randomizing ball velocity to make the game more varied.|
+|4|Implemented the left and right side displays with the backboard and fixed the constant blinking light problem. Wrote code to keep track of the score and began to test the larger system.|
 
 [Sources](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)
 <hr>
