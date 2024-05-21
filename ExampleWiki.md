@@ -23,6 +23,7 @@
 |3|Implemented/programmed seven more displays to see how the ball would move across multiple displays. Began considering how to implemented the moving backboards and randomizing ball velocity to make the game more varied.|
 |4|Implemented the left and right side displays with the backboard and fixed the constant blinking light problem. Wrote code to keep track of the score and began to test the larger system.|
 |5|Assembled the full display with battery holders to make the setup much cleaner. Fixed up remaining bugs in the paddle functions to ensure they work across the display.|
+|6|Implemented tilt control on the controller. Continued attempts to vary the velcoity and got closer but need to make it more playable in a pong style.|
 [Sources](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)
 <hr>
 <hr>
