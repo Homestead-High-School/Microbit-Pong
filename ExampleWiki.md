@@ -1,7 +1,7 @@
 # Welcome to Benjamin and Corey's Intrusive Personal Interest Project!
 
 ## [Presentation](https://docs.google.com/presentation/d/1BYW3g8E4uTiwx9T-5mipRFStOk-WniuoF8NEB2TlrG4/edit?usp=sharing)
-[![Image](https://user-images.githubusercontent.com/112722697/201743242-359b64f1-f774-4567-b0a3-e2469deb6684.png)](https://www.youtube.com/watch?v=UXWckTAw3JY)
+[![Image](https://miro.medium.com/v2/resize:fit:403/1*ZXMauLNaFe8mBX2qqE5n_w.png)
 
 
 <picture>
