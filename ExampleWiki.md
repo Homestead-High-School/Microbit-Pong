@@ -24,6 +24,7 @@
 |4|Implemented the left and right side displays with the backboard and fixed the constant blinking light problem. Wrote code to keep track of the score and began to test the larger system.|
 |5|Assembled the full display with battery holders to make the setup much cleaner. Fixed up remaining bugs in the paddle functions to ensure they work across the display.|
 |6|Implemented tilt control on the controller. Continued attempts to vary the velcoity and got closer but need to make it more playable in a pong style.|
+|7|Added a pause feature and sounds to the game to make it more user friendly. Added tilt control to the other controller and began play testing the game to fix bouncing issues and inconsistencies.|
 [Sources](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)
 <hr>
 <hr>
