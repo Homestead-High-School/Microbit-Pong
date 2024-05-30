@@ -27,6 +27,8 @@
 |7|Added a pause feature and sounds to the game to make it more user friendly. Added tilt control to the other controller and began play testing the game to fix bouncing issues and inconsistencies.|
 |8|Tested gameplay to work through issues with the bouncing and refined the code to fix the potential of a bounce and score happening simultaneously.|
 |9|Took in-class test.|
+|10|Fixed some edge cases that happened with the bounce, causing the game to not run in a user-friendly or easy-to-understand way. The bounce now is easier to follow, and the game is much more playable. Also added a end to the game when a player gains 10 points.|
+|11|Worked on the presentation and continued to playtest the game with multiple matches.|
 [Sources](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)
 <hr>
 <hr>
