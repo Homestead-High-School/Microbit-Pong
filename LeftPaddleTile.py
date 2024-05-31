@@ -17,11 +17,6 @@ while True:
         break
         
 while True:
-    display.show(score, wait=False)
-    message = radio.receive()
-    if message:
-        if(message != 'reset' and message[0] == 'x'):
-            score = message[message.index('c')+1: message.index('d')]
     yMag = compass.get_y()
     print(yMag)
     if(yMag >= 1000 and yMag < 10000):
@@ -40,4 +35,4 @@ while True:
         radio.send('a-3')
     if(yMag <= -35000):
         radio.send('a-4')
-    time.sleep(0.1)
+    time.sleep(0.08)
