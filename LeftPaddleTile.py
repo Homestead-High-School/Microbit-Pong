@@ -34,5 +34,5 @@ while True:
     if(yMag <= -25000 and yMag > -35000):
         radio.send('a-3')
     if(yMag <= -35000):
-        radio.send('a-4')
+        radio.send('a-5')
     time.sleep(0.08)
