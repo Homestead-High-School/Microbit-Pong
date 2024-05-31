@@ -14,7 +14,6 @@
 |-|-|-|
 |1|[Week 1 Notes](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week1Notes.md)||
 |2|[Week 2 Notes](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week2Notes.md)||
-|3|[Week 3 Notes](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)||
 
 |Day|Summary|
 |-|-|
@@ -31,7 +30,7 @@
 |11|Worked on the presentation and continued to playtest the game with multiple matches.|
 |12|Started working on making a scoreboard with a screen for each digit. Ran into some bugs with the updating of the screen.|
 |13|Finished the display with no more bugs. Sped up the paddles and did extensive play testing. Cleaned up the wiki and GitHub repositories.|
-[Sources](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/Week3Notes.md)
+[Sources](https://github.com/Homestead-High-School/personal-project-Corey-6-6-6/blob/main/GeneralSources.md)
 <hr>
 <hr>
 <hr>
